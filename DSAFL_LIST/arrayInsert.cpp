@@ -36,7 +36,7 @@ int main()
     int x;
     do{
         int value,pos;
-        cout << "\nChose an Option : " << endl;
+        cout << "\nChoose an option : " << endl;
         cout << "1.Insert an element at the Begining." << endl;
         cout << "2.Insert an element at the Midle." << endl;
         cout << "3.Insert an element at the End." << endl;
